@@ -6,6 +6,9 @@ This can include hate speech, harassment, profanity, insults, and other forms of
 # Problem Statement:
 
 Online communities and social media platforms have become integral parts of modern communication, facilitating interactions and discussions on various topics. However, the prevalence of toxic comments, which include harassment, hate speech, and offensive language, poses significant challenges to maintaining healthy and constructive online discourse. To address this issue, there is a pressing need for automated systems capable of detecting and flagging toxic comments in real-time.
+
+# objective:
+
 The objective of this project is to develop a deep learning-based comment toxicity model using Python. This model will analyze text input from online comments and predict the likelihood of each comment being toxic. By accurately identifying toxic comments, the model will assist platform moderators and administrators in taking appropriate actions to mitigate the negative impact of toxic behavior, such as filtering, warning users, or initiating further review processes.
 
 # Business Use Cases:
@@ -21,3 +24,19 @@ The objective of this project is to develop a deep learning-based comment toxici
 . E-learning Platforms and Educational Websites: E-learning platforms and educational websites can employ the toxicity detection model to create safer online learning environments for students and educators.​
 
 . News Websites and Media Outlets: News websites and media outlets can utilize the toxicity detection model to moderate user comments on articles and posts.​
+
+# Technical Tags:
+
+ *  Python
+ *  Deep Learning
+ *  Neural Networks
+ *  NLP
+ *  Model Training
+ *  Model Evaluation
+ *  Streamlit
+ *  Model Deployment
+
+# 
+
+
+
