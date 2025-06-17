@@ -76,5 +76,24 @@ https://drive.google.com/drive/folders/1WXLTp57_TYa61rcPfQIzRUcE1Rz76Emk
 
         from sklearn.metrics import roc_auc_score,classification_report,hamming_loss,accuracy_score
 
+   # Streamlit App
+
+   ![Capture d'écran 2025-06-17 155748](https://github.com/user-attachments/assets/56661e11-d8ee-4c6c-a918-267ec951be91)
+
+
+
+
+
+   ![Capture d'écran 2025-06-17 155605](https://github.com/user-attachments/assets/69292cd9-6e67-426a-86bd-32f16fe4ef7f)
+
+
+
+
+
+   ![Capture d'écran 2025-06-17 160045](https://github.com/user-attachments/assets/c469cfcb-42b0-46c1-b1a9-b0fc8fa18ff9)
+
+
+
+
 
 
